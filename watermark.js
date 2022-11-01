@@ -75,7 +75,7 @@
     /*采用配置项替换默认值，作用类似jquery.extend*/
     if (arguments.length === 1 && typeof arguments[0] === "object") {
       var src = arguments[0] || {};
-      for (key in src) {
+      for (var key in src) {
         if (
           src[key] &&
           defaultSettings[key] &&
