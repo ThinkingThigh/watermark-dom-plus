@@ -41,7 +41,7 @@
     monitor: true, //monitor 是否监控， true: 不可删除水印; false: 可删水印。
   };
 
-  const MutationObserver =
+  var MutationObserver =
     window.MutationObserver ||
     window.WebKitMutationObserver ||
     window.MozMutationObserver;
