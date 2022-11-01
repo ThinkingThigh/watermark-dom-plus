@@ -1,0 +1,22 @@
+{
+  "name": "watermark-dom-plus",
+  "version": "1.0.0",
+  "description": "由于watermark-dom作者不维护issue和pr，修改一些bug发包使用。",
+  "main": "watermark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThinkingThigh/watermark-dom-plus.git"
+  },
+  "keywords": [
+    "watermark"
+  ],
+  "author": "ThinkingThigh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThinkingThigh/watermark-dom-plus/issues"
+  },
+  "homepage": "https://github.com/ThinkingThigh/watermark-dom-plus#readme"
+}
