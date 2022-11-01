@@ -1,6 +1,6 @@
 {
   "name": "watermark-dom-plus",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "由于watermark-dom作者不维护issue和pr，修改一些bug发包使用。",
   "main": "watermark.js",
   "scripts": {
